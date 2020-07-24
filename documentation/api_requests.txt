@@ -1,0 +1,11 @@
+TRALER SEARCH
+http://api.themoviedb.org/3/movie/155/videos?api_key=7ce481b3d6492ae0a9dcb56a931a1579
+
+MOVIE DETAILS SEARCH WITH TRAILER
+https://api.themoviedb.org/3/movie/155?api_key=7ce481b3d6492ae0a9dcb56a931a1579&language=en-US&append_to_response=videos
+
+NOW SHOWING
+https://api.themoviedb.org/3/movie/now_playing?api_key=7ce481b3d6492ae0a9dcb56a931a1579&language=en-US&page=1
+
+ORIGINAL MOVIE SEARCH
+https://api.themoviedb.org/3/search/movie?api_key=7ce481b3d6492ae0a9dcb56a931a1579&query=

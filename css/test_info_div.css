@@ -1,0 +1,22 @@
+height:55vh;
+width:60%;
+top:20%;
+left:20%;
+right:20%;
+display:block;
+position:absolute;
+z-index:10;
+opacity:100%;
+
+
+#overlay {
+	height:100%;
+	width:100%;
+	left:0px;
+	top:0px;
+	position:fixed;
+	background:black;
+	opacity:70%;
+	z-index:5;
+	overflow.hidden;
+}

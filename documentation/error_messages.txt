@@ -1,0 +1,7 @@
+ERROR MESSAGES
+
+error_1 = user does not exist
+error_2 = password not valid for user
+error_3 = username and email taken
+error_4 = only email taken
+error_5 = only username taken

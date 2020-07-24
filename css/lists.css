@@ -1,0 +1,115 @@
+#content {
+	margin-top: 0px;
+}
+
+h1 {
+	margin-bottom: 10px;
+}
+
+#user-header {
+	padding: 20px;
+}
+
+#user-header span{
+	display: block;
+}
+
+#select-a-list {
+	margin-top: 50px;
+	margin-bottom: 5px;
+}
+
+#dropdown-row {
+	display: flex;
+	justify-content: space-around;
+}
+
+select {
+	width: 80%;
+	height: 40px;
+	padding: 5px;
+	border-radius: 5px;
+	border-width: 1.2px;
+}
+
+#user-header button{
+	height: 40px;
+	border-radius: 5px;
+	border-width: 1.2px;
+	padding: 5px;
+	min-width: 150px;
+}
+
+#results {
+	width: 100%;
+}
+
+#title {
+	padding-left: 20px;
+}
+
+.list-item {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	border: 1px solid #7cb7f7;
+	margin: 20px 0px;
+	width: 100%;
+	border-radius: 10px;
+}
+
+.rc1 {
+	width: 130px;
+}
+
+.rc2 {
+	width: 455px;
+}
+
+.rc3 {
+	width: 190px;
+}
+
+.list-item p{
+	max-width: 450px;
+	overflow-wrap: break-word;
+}
+
+.rc1 img{
+	margin: auto;
+}
+
+.rc3 button{
+	width: 190px;
+	height: 50px;
+	margin-top: 40px;
+}
+
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { 
+	border-radius: 20px; 
+}
+ 
+.toggle.ios .toggle-handle { 
+	border-radius: 20px; 
+}
+
+.watched-div, .favourites-div {
+	text-align: right;
+}
+
+.toggle {
+	margin-left: 15px;
+}
+
+.rc3 .watched, .rc3 .favourites {
+	margin-top: 20px;
+}
+
+.toggle-off {
+	background-color: #82827f;
+}
+
+.delete-item {
+	background-color: #ed6f7c;
+	border-color: #ed6f7c;
+}
